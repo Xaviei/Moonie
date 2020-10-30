@@ -1,0 +1,35 @@
+@import url(https://fonts.google.com/specimen/Mina?query=moon#standard-styles);
+
+*{
+    list-style-type: none; 
+    color: white; 
+    font-family: 'Mina', sans-serif;
+}
+.nav{
+    text-align: center;
+    display: inline;
+}
+.nav ul li{ 
+    text-align: center;
+    margin: 0;
+}
+.ul a:hover {
+    background-color: teal;
+}
+.header{
+    display: inline-block;
+    text-align: center;
+    margin: 50;
+}
+body{
+        background-image: url(images/Moonrift-FINAL-White.jpg);
+        background-position: 0px;
+        background-attachment: fixed;
+        float: center;
+        margin: 0;
+}
+footer{
+    text-align: center;
+
+}
+
