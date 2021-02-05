@@ -6,7 +6,7 @@
     font-family: 'Mina', sans-serif;
 }
 .logo{
-    height: 100px;
+    height: 120px;
     width: 200px;
 }
 .nav{
@@ -28,7 +28,7 @@
 }
 body{
         background-image: url(Imgs\Moonrift-FINAL-White.jpg);
-        background-color: black;
+        background-color: rgb(5, 5, 5);
         background-position: 0px;
         background-attachment: fixed;
         float: center;
