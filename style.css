@@ -5,6 +5,10 @@
     color: white; 
     font-family: 'Mina', sans-serif;
 }
+.logo{
+    height: 100px;
+    width: 200px;
+}
 .nav{
     text-align: center;
     display: inline;
@@ -16,13 +20,15 @@
 .ul a:hover {
     background-color: teal;
 }
+.h1{
+    text-align:center;
+}
 .header{
-    display: inline-block;
-    text-align: center;
-    margin: 50;
+    text-align:center;
 }
 body{
-        background-image: url(images/Moonrift-FINAL-White.jpg);
+        background-image: url(Imgs\Moonrift-FINAL-White.jpg);
+        background-color: black;
         background-position: 0px;
         background-attachment: fixed;
         float: center;
